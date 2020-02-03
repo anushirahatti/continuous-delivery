@@ -7,4 +7,4 @@
 
 ### Here is the link to demo of this project:
 
-[![Watch the video](https://img.youtube.com/vi/UhMB2fs9n0Y&t=5s/hqdefault.jpg)]
+[![Watch the video](https://img.youtube.com/vi/UhMB2fs9n0Y&t=5s/hqdefault.jpg)](https://youtu.be/UhMB2fs9n0Y)
