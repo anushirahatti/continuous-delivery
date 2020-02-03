@@ -12,7 +12,7 @@ def hello():
 @app.route('/deliver')
 def hey():
     """Return a friendly HTTP greeting."""
-    return 'Continuous Delivery on GCP Success!'
+    return '<center><h1>Continuous Delivery on GCP Success!</h1><center>'
 
 @app.route('/name/<value>')
 def name(value):
