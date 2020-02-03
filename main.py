@@ -9,11 +9,6 @@ def hello():
     """Return a friendly HTTP greeting."""
     return '<center><h1>Hello Aniruddha!</h1></center>'
 
-@app.route('/deliver')
-def hey():
-    """Return a friendly HTTP greeting."""
-    return '<center><h1>Continuous Delivery on GCP Success!</h1><center>'
-
 @app.route('/name/<value>')
 def name(value):
     val = {"value": value}
